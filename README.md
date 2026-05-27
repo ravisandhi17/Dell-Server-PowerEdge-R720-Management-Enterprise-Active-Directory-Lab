@@ -48,9 +48,9 @@ The environment simulates real-world corporate IT administration including ident
 
 - DNS integrated with Active Directory
 
-  ![IPCONFIG](screenshots/basic/DELL-SERVER1.png)
+  ![IPCONFIG](screenshots/basic/DELL-SERVER1.jpeg)
   
-  ![IPCONFIG](screenshots/basic/DELL-SERVER2.png)
+  ![IPCONFIG](screenshots/basic/DELL-SERVER2.jpeg)
 
   ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER.png)
 
@@ -59,7 +59,7 @@ The environment simulates real-world corporate IT administration including ident
 
   ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER_ipconfig.png)
 
-  ![IPCONFIG](screenshots/installation-and-login/INSTALLATION-81.png)
+  ![IPCONFIG](screenshots/installation-and-login/INSTALATION-81.png)
   
   ![IPCONFIG](screenshots/installation-and-login/WINDOWS_SERVER_INSTALLED.png)
 
