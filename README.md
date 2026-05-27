@@ -52,10 +52,12 @@ The environment simulates real-world corporate IT administration including ident
   
   ![IPCONFIG](screenshots/basic/DELL-SERVER2.jpeg)
 
+   ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER_idrac.png)
+
   ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER.png)
 
 
-  ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER_idrac.png)
+  
 
   ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER_ipconfig.png)
 
