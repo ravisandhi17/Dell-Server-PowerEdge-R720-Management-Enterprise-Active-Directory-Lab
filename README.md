@@ -257,19 +257,19 @@ Remote Desktop Protocol (RDP) was enabled for OS-level server management.
 
 ##  Key Results
 
-✔ Fully functional Active Directory domain environment  
+- Fully functional Active Directory domain environment  
 
-✔ Multi-department OU structure implemented  
+- Multi-department OU structure implemented  
 
-✔ Role-based access control (RBAC) successfully configured  
+- Role-based access control (RBAC) successfully configured  
 
-✔ Centralized policy enforcement using GPO  
+- Centralized policy enforcement using GPO  
 
-✔ Dell server managed using iDRAC (enterprise-level skill)  
+- Dell server managed using iDRAC (enterprise-level skill)  
 
-✔ Remote administration via RDP and Virtual Console  
+- Remote administration via RDP and Virtual Console  
 
-✔ Enterprise-style IT infrastructure successfully simulated  
+- Enterprise-style IT infrastructure successfully simulated  
 
 ---
 
