@@ -151,9 +151,9 @@ The environment simulates real-world corporate IT administration including ident
 
 ###  SALES Department (Standard Access)
 
-- Control Panel: Disabled
+- Control Panel: Enabled
 
-- Command Prompt: Enabled
+- Command Prompt:  Disabled
 
 - Balanced user environment for business operations
 
