@@ -48,11 +48,37 @@ The environment simulates real-world corporate IT administration including ident
 
 - DNS integrated with Active Directory
 
+  ![IPCONFIG](screenshots/basic/DELL-SERVER1.png)
+  
+  ![IPCONFIG](screenshots/basic/DELL-SERVER2.png)
+
+  ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER.png)
+
+
+  ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER_idrac.png)
+
+  ![IPCONFIG](screenshots/installation-and-login/REMOTE_CONNECTION_TO_DELL_SERVER_ipconfig.png)
+
+  ![IPCONFIG](screenshots/installation-and-login/INSTALLATION-81.png)
+  
+  ![IPCONFIG](screenshots/installation-and-login/WINDOWS_SERVER_INSTALLED.png)
+
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/DELL-SERVER-SET-AS-DC.png)
+
+  ![IPCONFIG](screenshots/server-configuration/DHCP_DNS_SETTINGS_CMD.png)
+  
+  ![IPCONFIG](screenshots/server-configuration/HOSTNAME_DOMAIN_CONTROLLER.png)
+
+
 ###  Client Machine
 
 - Windows 11 VM (Oracle VirtualBox)
 
 - Joined to domain: `ravikumar.local`
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/DELL-PC-RAVI-JOINED-DELL-SERVER.png)
+
 
 ---
 
@@ -65,6 +91,20 @@ The environment simulates real-world corporate IT administration including ident
 - HR_DELL
 
 - SALES_DELL
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/IPCONFIG-ALL-DELL-PC-RAVI.png)
+
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/ITDELLUSER_CREATED.png)
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/ITDELLUSER_LOGIN.png)
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/HRDELLUSER_LOGIN.png)
+
+  ![IPCONFIG](screenshots/active-directory-basic-setup/SALESDELLUSER_LOGIN.png)
+
+  
+
 
 ### Users Created
 
@@ -86,6 +126,12 @@ The environment simulates real-world corporate IT administration including ident
 
 - Full administrative-style access
 
+![IPCONFIG](screenshots/group-policy/IT-POLICY-CMD.png)
+
+![IPCONFIG](screenshots/group-policy/IT-POLICY-CONTROL-PANEL.png)
+
+![IPCONFIG](screenshots/group-policy/IT-POLICY-TESTED.png)
+
 ###  HR Department (Restricted Access)
 
 
@@ -95,6 +141,12 @@ The environment simulates real-world corporate IT administration including ident
 
 - Highly restricted system access for security compliance
 
+![IPCONFIG](screenshots/group-policy/HR-POLICY-CMD.png)
+
+![IPCONFIG](screenshots/group-policy/HR-POLICY-CONTROL-PANEL.png)
+
+![IPCONFIG](screenshots/group-policy/HR-POLICY-TESTED.png)
+
 ###  SALES Department (Standard Access)
 
 - Control Panel: Disabled
@@ -102,6 +154,14 @@ The environment simulates real-world corporate IT administration including ident
 - Command Prompt: Enabled
 
 - Balanced user environment for business operations
+
+![IPCONFIG](screenshots/group-policy/SALES-POLICY-CMD.png)
+
+![IPCONFIG](screenshots/group-policy/SALES-POLICY-CONTROL-PANEL.png)
+
+![IPCONFIG](screenshots/group-policy/SALES-POLICY-TESTED.png)
+
+
 
 ---
 
